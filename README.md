@@ -25,7 +25,7 @@ To create an informative AI-based tool that should be able to give alerts and id
     
 </div>
 
-![App Screenshot](Screenshots/Result.png)
+
 
 <p align="center">
   <a>
